@@ -1,0 +1,493 @@
+{
+  "failures": [
+    {
+      "page": "/artrose-nos-pes-o-que-e-quais-as-causas-sintomas-como-aliviar-as-dores-e-muito-mais/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/10/obeso-1-1024x717.webp",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/10/idoso2.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/10/pe-torto-1.png"
+      ]
+    },
+    {
+      "page": "/cisto-sinovial-no-pe-o-que-e-sintomas-causas-e-tratamento/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/03/10.png"
+      ]
+    },
+    {
+      "page": "/dedos-dos-pes-tortos-e-doloridos-conheca-as-principais-causas-e-tratamentos/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/06/2021-06-15-2-martelo.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/06/2021-06-15-3-malho.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/06/2021-06-15-4-garra.png"
+      ]
+    },
+    {
+      "page": "/dicas-para-evitar-entorse-de-tornozelo-prevencao-e-cuidados-essenciais-para-seus-pes/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2026/03/dicas-para-entorse-de-tornozelo-prevencao-e-cuidados-essenciais-para-seus-pes-audio.mp3"
+      ]
+    },
+    {
+      "page": "/doenca-de-sever-saiba-as-principais-causas-e-como-prevenir/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/11/sever-rx.jpg"
+      ]
+    },
+    {
+      "page": "/dor-no-calcanhar-o-que-causa-como-investigar-e-como-tratar/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/06/coxim-e1656340134790.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/06/calcaneo.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/06/sever.jpg"
+      ]
+    },
+    {
+      "page": "/dor-na-sola-do-pe-quais-as-causas-como-investigar-e-como-tratar/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/06/infogra.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/06/2.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/06/3.webp"
+      ]
+    },
+    {
+      "page": "/dor-na-lateral-do-tornozelo-o-que-pode-ser-como-investigar-e-como-resolver/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/04/1.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/04/2.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/04/3.png"
+      ]
+    },
+    {
+      "page": "/dor-nos-pes-saiba-quais-as-principais-causas-e-o-que-fazer/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/09/Pes-de-Gravida.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/09/Sobrepeso-nos-pes.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/09/Fascite-plantar-3-1024x711.jpg"
+      ]
+    },
+    {
+      "page": "/fascite-plantar-conheca-o-que-e-e-como-tratar/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/05/2021-05-30-1-1024x410.png"
+      ]
+    },
+    {
+      "page": "/gota-no-pe-conheca-as-causas-sintomas-e-tratamentos-recomendados/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/02/Gota.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/02/Tophus-foot-picture.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/02/gout.jpg"
+      ]
+    },
+    {
+      "page": "/fratura-no-tornozelo-conheca-as-causas-como-diagnosticar-e-os-tratamentos/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/05/1.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/05/3.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/05/2.png"
+      ]
+    },
+    {
+      "page": "/lesao-por-estresse-nos-pes-tudo-que-precisa-saber-sobre-esse-tipo-de-fratura/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/05/pes-inchado-1024x682.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/05/3.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/05/2.jpg"
+      ]
+    },
+    {
+      "page": "/lesoes-no-tornozelo-sao-as-mais-comuns-nos-jogos-olimpicos/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/08/2-1024x676.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/08/4.jpg"
+      ]
+    },
+    {
+      "page": "/neuroma-de-morton-o-que-e-quais-os-sintomas-e-tratamento/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/07/Neuroma-de-Morton-saiba-o-que-e-como-ocorre-sintomas-diagnosticos-e-como-tratar-blog_1024x1024.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/07/neuroma-de-morton-1100x675-1-1024x628.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/07/meuroma-de-mortom-1.jpg"
+      ]
+    },
+    {
+      "page": "/neuroma-de-morton/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/07/Neuroma-de-Morton-saiba-o-que-e-como-ocorre-sintomas-diagnosticos-e-como-tratar-blog_1024x1024.jpg"
+      ]
+    },
+    {
+      "page": "/neuropatia-periferica-conheca-as-causas-sintomas-e-tratamentos/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/02/Neuropatia-periferica-capa-1024x678.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/02/Neuropatia-periferica.jpg"
+      ]
+    },
+    {
+      "page": "/o-que-e-metatarsalgia-suas-causas-e-como-tratar/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/06/2021-06-30-2-1024x410.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/06/2021-06-30-1-1024x410.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/06/2021-06-30-3-1024x410.png"
+      ]
+    },
+    {
+      "page": "/o-que-e-como-identificar-e-como-tratar-o-reumatismo-nos-pes/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/05/2021-05-15-3-1024x410.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/05/2021-05-15-4-1024x410.png"
+      ]
+    },
+    {
+      "page": "/o-que-e-equinismo-em-criancas-saiba-tudo-sobre-o-conhecido-pe-de-bailarina/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/10/Equinismo-em-criancas3.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/10/Equinismo-em-criancas-5.jpg"
+      ]
+    },
+    {
+      "page": "/o-que-e-esporao-do-calcaneo-e-como-tratar/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/02/fascite-plantar-1200x675-cropped-1024x576.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/02/Dor-no-calcanhar-1024x683.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/02/6945741a11db92f94945e743509895_gallery.jpg"
+      ]
+    },
+    {
+      "page": "/o-que-o-sobrepeso-e-a-obesidade-podem-gerar-aos-pes-e-tornozelos/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/08/crianca-na-balanca-0916-1400x800-1.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/08/Dor-na-coluna.jpg"
+      ]
+    },
+    {
+      "page": "/pe-cavo-como-identificar-e-quais-os-possiveis-tratamentos/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/07/2021-07-15-2-1024x410.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/07/2021-07-15-3-1024x410.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/07/2021-07-15-4-1024x410.png"
+      ]
+    },
+    {
+      "page": "/os-calcados-podem-causar-lesoes-ortopedicas/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/10/Papete-azaleia-street-320-768x768.webp",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/10/Fila.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/10/Skechers-D-lite-707x1024.jpg"
+      ]
+    },
+    {
+      "page": "/osteomielite-o-que-e-sintomas-causas-diagnostico-tratamento-e-muito-mais/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/08/S.Aureus.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/08/crianca.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/08/adulto.jpg"
+      ]
+    },
+    {
+      "page": "/pe-plano-as-botas-ortopedicas-corrigem-o-formato-do-pe-chato-essa-e-outras-duvidas-respondidas/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/07/pe-valgo.webp",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/07/pronada.jpg"
+      ]
+    },
+    {
+      "page": "/pes-e-tornozelos-inchados-o-que-pode-ser/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/01/tornozelos-e-pes-inchados-1024x576.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/01/pernas-e-pes-inchados-na-gravide-1024x682.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/01/765_360_puffy-foot-of-a-35-weeks-pregnant-woman_1489615950.jpg"
+      ]
+    },
+    {
+      "page": "/quais-os-principais-sintomas-e-como-e-o-tratamento-dos-joanetes/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/03/Fabio-Hirata-Blog-1024x410.png"
+      ]
+    },
+    {
+      "page": "/quais-sao-as-lesoes-nos-pes-e-tornozelos-mais-comuns/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/03/15-1024x410.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/11/pe-chato-1024x574.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/11/neuroma-de-mortom-1.jpg"
+      ]
+    },
+    {
+      "page": "/tendinite-no-pe-o-que-e-causas-e-tratamento/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/11/tendinite-no-pe.jpeg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/11/pes-obesidade-problemas.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/11/Calcado-tendinite.jpg"
+      ]
+    },
+    {
+      "page": "/voce-ja-ouviu-falar-da-lesao-ou-fratura-de-lisfranc/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/12/lesao-lisfranc-1.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/12/Ligamento-lisfranc.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2021/12/trauma-Lisfranc-1024x576.png"
+      ]
+    },
+    {
+      "page": "/turf-toe-sintomas-causas-e-tratamentos/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/01/turf-toe-3-1024x576.jpeg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/01/S_OSG_Vorfuss_Turf-toe-01-749x1024.png",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/01/turf-toe-1.jpg"
+      ]
+    },
+    {
+      "page": "/unha-encravada-como-acabar-com-o-terror-dos-pes/",
+      "bad": [
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/03/unha-encravada-1024x683.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/03/dicas-para-amaciar-sapatos-apertados.jpg",
+        "404 http://127.0.0.1:54390/wp-content/uploads/2022/03/1.png"
+      ]
+    }
+  ],
+  "liveHits": [],
+  "brokenImages": [
+    {
+      "page": "/artrose-nos-pes-o-que-e-quais-as-causas-sintomas-como-aliviar-as-dores-e-muito-mais/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2022/10/obeso-1-1024x717.webp",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/10/idoso2.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/10/pe-torto-1.png"
+      ]
+    },
+    {
+      "page": "/cisto-sinovial-no-pe-o-que-e-sintomas-causas-e-tratamento/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2022/03/10.png"
+      ]
+    },
+    {
+      "page": "/dedos-dos-pes-tortos-e-doloridos-conheca-as-principais-causas-e-tratamentos/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/06/2021-06-15-2-martelo.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/06/2021-06-15-3-malho.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/06/2021-06-15-4-garra.png"
+      ]
+    },
+    {
+      "page": "/doenca-de-sever-saiba-as-principais-causas-e-como-prevenir/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/11/sever-rx.jpg"
+      ]
+    },
+    {
+      "page": "/dor-no-calcanhar-o-que-causa-como-investigar-e-como-tratar/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2022/06/coxim-e1656340134790.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/06/calcaneo.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/06/sever.jpg"
+      ]
+    },
+    {
+      "page": "/dor-na-sola-do-pe-quais-as-causas-como-investigar-e-como-tratar/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2022/06/infogra.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/06/2.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/06/3.webp"
+      ]
+    },
+    {
+      "page": "/dor-na-lateral-do-tornozelo-o-que-pode-ser-como-investigar-e-como-resolver/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2022/04/1.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/04/2.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/04/3.png"
+      ]
+    },
+    {
+      "page": "/dor-nos-pes-saiba-quais-as-principais-causas-e-o-que-fazer/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/09/Sobrepeso-nos-pes.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/09/Pes-de-Gravida.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/09/Fascite-plantar-3-1024x711.jpg"
+      ]
+    },
+    {
+      "page": "/fascite-plantar-conheca-o-que-e-e-como-tratar/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/05/2021-05-30-1-1024x410.png"
+      ]
+    },
+    {
+      "page": "/gota-no-pe-conheca-as-causas-sintomas-e-tratamentos-recomendados/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2022/02/Gota.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/02/Tophus-foot-picture.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/02/gout.jpg"
+      ]
+    },
+    {
+      "page": "/fratura-no-tornozelo-conheca-as-causas-como-diagnosticar-e-os-tratamentos/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2022/05/1.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/05/2.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/05/3.png"
+      ]
+    },
+    {
+      "page": "/lesao-por-estresse-nos-pes-tudo-que-precisa-saber-sobre-esse-tipo-de-fratura/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2022/05/pes-inchado-1024x682.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/05/2.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/05/3.jpg"
+      ]
+    },
+    {
+      "page": "/lesoes-no-tornozelo-sao-as-mais-comuns-nos-jogos-olimpicos/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/08/2-1024x676.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/08/4.jpg"
+      ]
+    },
+    {
+      "page": "/neuroma-de-morton-o-que-e-quais-os-sintomas-e-tratamento/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/07/Neuroma-de-Morton-saiba-o-que-e-como-ocorre-sintomas-diagnosticos-e-como-tratar-blog_1024x1024.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/07/neuroma-de-morton-1100x675-1-1024x628.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/07/meuroma-de-mortom-1.jpg"
+      ]
+    },
+    {
+      "page": "/neuroma-de-morton/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/07/Neuroma-de-Morton-saiba-o-que-e-como-ocorre-sintomas-diagnosticos-e-como-tratar-blog_1024x1024.jpg"
+      ]
+    },
+    {
+      "page": "/neuropatia-periferica-conheca-as-causas-sintomas-e-tratamentos/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2022/02/Neuropatia-periferica-capa-1024x678.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/02/Neuropatia-periferica.jpg"
+      ]
+    },
+    {
+      "page": "/o-que-e-metatarsalgia-suas-causas-e-como-tratar/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/06/2021-06-30-2-1024x410.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/06/2021-06-30-1-1024x410.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/06/2021-06-30-3-1024x410.png"
+      ]
+    },
+    {
+      "page": "/o-que-e-como-identificar-e-como-tratar-o-reumatismo-nos-pes/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/05/2021-05-15-3-1024x410.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/05/2021-05-15-4-1024x410.png"
+      ]
+    },
+    {
+      "page": "/o-que-e-equinismo-em-criancas-saiba-tudo-sobre-o-conhecido-pe-de-bailarina/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/10/Equinismo-em-criancas3.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/10/Equinismo-em-criancas-5.jpg"
+      ]
+    },
+    {
+      "page": "/o-que-e-esporao-do-calcaneo-e-como-tratar/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2022/02/fascite-plantar-1200x675-cropped-1024x576.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/02/Dor-no-calcanhar-1024x683.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/02/6945741a11db92f94945e743509895_gallery.jpg"
+      ]
+    },
+    {
+      "page": "/o-que-o-sobrepeso-e-a-obesidade-podem-gerar-aos-pes-e-tornozelos/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/08/crianca-na-balanca-0916-1400x800-1.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/08/Dor-na-coluna.jpg"
+      ]
+    },
+    {
+      "page": "/pe-cavo-como-identificar-e-quais-os-possiveis-tratamentos/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/07/2021-07-15-2-1024x410.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/07/2021-07-15-3-1024x410.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/07/2021-07-15-4-1024x410.png"
+      ]
+    },
+    {
+      "page": "/os-calcados-podem-causar-lesoes-ortopedicas/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/10/Papete-azaleia-street-320.webp",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/10/Fila.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/10/Skechers-D-lite-707x1024.jpg"
+      ]
+    },
+    {
+      "page": "/osteomielite-o-que-e-sintomas-causas-diagnostico-tratamento-e-muito-mais/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2022/08/S.Aureus.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/08/crianca.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/08/adulto.jpg"
+      ]
+    },
+    {
+      "page": "/pe-plano-as-botas-ortopedicas-corrigem-o-formato-do-pe-chato-essa-e-outras-duvidas-respondidas/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2022/07/pe-valgo.webp",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/07/pronada.jpg"
+      ]
+    },
+    {
+      "page": "/pes-e-tornozelos-inchados-o-que-pode-ser/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2022/01/tornozelos-e-pes-inchados-1024x576.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/01/pernas-e-pes-inchados-na-gravide-1024x682.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/01/765_360_puffy-foot-of-a-35-weeks-pregnant-woman_1489615950.jpg"
+      ]
+    },
+    {
+      "page": "/quais-os-principais-sintomas-e-como-e-o-tratamento-dos-joanetes/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/03/Fabio-Hirata-Blog-1024x410.png"
+      ]
+    },
+    {
+      "page": "/quais-sao-as-lesoes-nos-pes-e-tornozelos-mais-comuns/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/03/15-1024x410.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/11/pe-chato-1024x574.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/11/neuroma-de-mortom-1.jpg"
+      ]
+    },
+    {
+      "page": "/tendinite-no-pe-o-que-e-causas-e-tratamento/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/11/tendinite-no-pe.jpeg",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/11/pes-obesidade-problemas.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/11/Calcado-tendinite.jpg"
+      ]
+    },
+    {
+      "page": "/voce-ja-ouviu-falar-da-lesao-ou-fratura-de-lisfranc/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2021/12/lesao-lisfranc-1.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/12/Ligamento-lisfranc.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2021/12/trauma-Lisfranc-1024x576.png"
+      ]
+    },
+    {
+      "page": "/turf-toe-sintomas-causas-e-tratamentos/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2022/01/turf-toe-3-1024x576.jpeg",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/01/S_OSG_Vorfuss_Turf-toe-01-749x1024.png",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/01/turf-toe-1.jpg"
+      ]
+    },
+    {
+      "page": "/unha-encravada-como-acabar-com-o-terror-dos-pes/",
+      "images": [
+        "http://127.0.0.1:54390/wp-content/uploads/2022/03/unha-encravada-1024x683.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/03/dicas-para-amaciar-sapatos-apertados.jpg",
+        "http://127.0.0.1:54390/wp-content/uploads/2022/03/1.png"
+      ]
+    }
+  ]
+}
