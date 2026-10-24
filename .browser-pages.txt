@@ -45,10 +45,12 @@
 /entenda-quando-e-preciso-tratar-o-pe-chato/
 /entorse-do-tornozelo-sintomas-tratamentos-e-como-evitar-recidivas/
 /entorses-do-tornozelo-o-que-sao-e-como-tratar-este-tipo-de-lesao/
+/entorses-do-tornozelo/
 /especialista-em-pe-sao/
 /fascite-plantar-cid-sintomas-causas-e-tratamento/
 /fascite-plantar-conheca-o-que-e-e-como-tratar/
 /fascite-plantar-tratamento-exercicios-e-cuidados-do-paciente/
+/fascite-plantar/
 /formigamento-pes-causas/
 /fratura-estresse-pe/
 /fratura-no-tornozelo-conheca-as-causas-como-diagnosticar-e-os-tratamentos/
@@ -85,6 +87,13 @@
 /os-calcados-podem-causar-lesoes-ortopedicas/
 /osso-navicular-acessorio/
 /osteomielite-o-que-e-sintomas-causas-diagnostico-tratamento-e-muito-mais/
+/patologias/entorses-do-tornozelo/
+/patologias/fascite-plantar/
+/patologias/lesoes-no-tendao-calcaneo/
+/patologias/neuroma-de-morton/
+/patologias/pe-cavo/
+/patologias/pe-plano/
+/patologias/pe-reumatoide/
 /pe-cavo-como-identificar-e-quais-os-possiveis-tratamentos/
 /pe-inchado-dolorido/
 /pe-plano-as-botas-ortopedicas-corrigem-o-formato-do-pe-chato-essa-e-outras-duvidas-respondidas/

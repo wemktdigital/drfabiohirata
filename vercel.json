@@ -1,3 +1,50 @@
 {
-  "trailingSlash": true
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/entorses-do-tornozelo/",
+      "destination": "/tratamentos/entorses-do-tornozelo/",
+      "permanent": true
+    },
+    {
+      "source": "/fascite-plantar/",
+      "destination": "/tratamentos/fascite-plantar/",
+      "permanent": true
+    },
+    {
+      "source": "/patologias/entorses-do-tornozelo/",
+      "destination": "/tratamentos/entorses-do-tornozelo/",
+      "permanent": true
+    },
+    {
+      "source": "/patologias/fascite-plantar/",
+      "destination": "/tratamentos/fascite-plantar/",
+      "permanent": true
+    },
+    {
+      "source": "/patologias/lesoes-no-tendao-calcaneo/",
+      "destination": "/tratamentos/lesoes-no-tendao-calcaneo/",
+      "permanent": true
+    },
+    {
+      "source": "/patologias/neuroma-de-morton/",
+      "destination": "/tratamentos/neuroma-de-morton/",
+      "permanent": true
+    },
+    {
+      "source": "/patologias/pe-cavo/",
+      "destination": "/tratamentos/pe-cavo/",
+      "permanent": true
+    },
+    {
+      "source": "/patologias/pe-plano/",
+      "destination": "/pe-plano-as-botas-ortopedicas-corrigem-o-formato-do-pe-chato-essa-e-outras-duvidas-respondidas/",
+      "permanent": true
+    },
+    {
+      "source": "/patologias/pe-reumatoide/",
+      "destination": "/tratamentos/pe-reumatoide/",
+      "permanent": true
+    }
+  ]
 }
