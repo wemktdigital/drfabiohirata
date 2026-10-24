@@ -64,9 +64,11 @@ def normalize(url: str) -> str:
     url = html_lib.unescape(url.strip())
     if url.startswith(("mailto:", "tel:", "#", "javascript:", "data:")):
         return url
+    if url.startswith(f"https://{HOST}//") or url.startswith(f"http://{HOST}//"):
+        url = "/" + url.split("//", 2)[2]
     parsed = urllib.parse.urlparse(urllib.parse.urljoin(ORIGIN + "/", url))
     if parsed.netloc == HOST:
-        return (parsed.path or "/") + (("?" + parsed.query) if parsed.query else "")
+        return re.sub(r"^/+", "/", parsed.path or "/") + (("?" + parsed.query) if parsed.query else "")
     return parsed.geturl()
 
 
@@ -183,6 +185,10 @@ def main() -> None:
         print(("OK  " if not issues else "DIF ") + path, flush=True)
         for issue in issues:
             print("     - " + issue, flush=True)
+    known_404 = ROOT / ".oficial-404.txt"
+    if known_404.exists():
+        gone = set(known_404.read_text().splitlines())
+        missing_assets = {ref: where for ref, where in missing_assets.items() if ref not in gone and "<" not in ref}
     css_missing = css_refs()
     print("\nARQUIVOS REFERENCIADOS NO HTML QUE FALTAM:", len(missing_assets))
     for ref, where in sorted(missing_assets.items()):
